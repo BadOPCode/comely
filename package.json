@@ -1,10 +1,10 @@
 {
   "name": "comely",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Beautify and Minify for the web browser.",
   "main": "base.js",
   "scripts": {
-    "build": "browserify base.js -o dist/comely.js -s Comley",
+    "build": "browserify base.js -o dist/comely.js -s Comely",
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "watchify base.js -o dist/comely.js --debug --verbose"
   },
