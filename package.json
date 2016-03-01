@@ -1,6 +1,6 @@
 {
   "name": "comely",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Beautify and Minify for the web browser.",
   "main": "base.js",
   "scripts": {

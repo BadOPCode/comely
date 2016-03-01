@@ -99,7 +99,7 @@
             removeCommentsFromCDATA:        false,
             removeCDATASectionsFromCDATA:   false,
             collapseWhitespace:             true,
-            conservativeCollapse:           true,
+            conservativeCollapse:           false,
             collapseInlineTagWhitespace:    false,
             preserveLineBreaks:             true,
             collapseBooleanAttributes:      true,
