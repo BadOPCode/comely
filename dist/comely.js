@@ -103,7 +103,7 @@
             collapseInlineTagWhitespace:    false,
             preserveLineBreaks:             false,
             collapseBooleanAttributes:      true,
-            removeTagWhitespace:            true,
+            removeTagWhitespace:            false,
             removeAttributeQuotes:          false,
             removeRedundantAttributes:      true,
             preventAttributesEscaping:      false,
